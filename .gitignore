@@ -7,6 +7,9 @@ node_modules
 dist
 dist-ssr
 
+# Standalone sites (separate git repositories)
+sites/
+
 # Environment files
 .env
 .env.local
